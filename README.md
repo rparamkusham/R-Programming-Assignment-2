@@ -1,6 +1,6 @@
 # R-Programming-Assignment-2
 # The following are the runtime computation commands
-# to test the cahing of the metrix inversion
+# to test the caching of the metrix inversion
 
 > source("RP_Programming_Assignment_2.R")
 > 
